@@ -1,0 +1,37 @@
+#header{
+    background-color: burlywood;
+    text-align: center;
+    padding: 5px;
+}
+#header h1{
+    color: rgb(105, 46, 46);
+}
+#header blockquote{
+    background-color:bisque;
+    border: 3px dotted;
+}
+.menu ul{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.menu a{
+    text-decoration: none;
+}
+.gambar{
+    text-align: center;
+}
+.gambar img{
+    width: 170px;
+}
+.fp::first-letter{
+    color: rgb(105, 46, 46);
+    font-size: 40px;
+}
+.koleksi{
+    text-align: center;
+}
+.koleksi img{
+    width: 170px;
+}
